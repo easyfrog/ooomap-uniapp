@@ -11,7 +11,10 @@
 或使用`git clone`的方式
 
 ```bash
+# github
 git clone https://github.com/easyfrog/ooomap-uniapp.git
+# or gitee(码云)
+git clone https://gitee.com/easyfrog/ooomap-uniapp.git
 
 cd ooomap-uniapp
 
